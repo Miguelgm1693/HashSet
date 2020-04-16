@@ -29,5 +29,14 @@ Proporciona la mayoría de operaciones de acceso en tiempo constante, entonces l
 
 ### Funcionamiento de HashSet ###
 
+Ejemplo sencillo del funcionamiento de la clase HashSet. Los elementos iteran en una colección desordenada
+
+![](1.png)
+
+Como hemos dicho antes, no podemos predecir nada sobre el orden de los elementos.
+
+![](2.png)
+
+
 
 
